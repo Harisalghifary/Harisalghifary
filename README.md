@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Harisalghifary
 - 👀 I’m interested in software engineering, machine learning, and game development
-- 🌱 I’m currently learning microservice architecture and GO
+- 🌱 I’m currently learning microservice architecture, GO, and also blockchain
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me haris.solo68@gmail.com
 
