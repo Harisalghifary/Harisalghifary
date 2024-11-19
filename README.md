@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Haris a software engineer 
-- 👀 I’m interested in software engineering, blockchain, and game development
+- 👀 I’m interested in software engineering, blockchain, and AI development
 - 🌱 Love typescript and golang as main languages
 - 💞️ I’m looking to collaborate on open source project
 - ✍️ 365 Daily Code Challenge in Leetcode and start a medium articles project
